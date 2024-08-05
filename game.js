@@ -36,7 +36,7 @@ if(userClickedPattern[buttons]===gamePattern[buttons]){
     
         setTimeout(function() {
             $("body").removeClass("game-over");
-        }, 50);
+        }, 70);
 
         restartGame();
         }
