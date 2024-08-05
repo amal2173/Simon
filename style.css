@@ -1,5 +1,5 @@
 body{
-    background-color: #0C0420;
+background-color: #0C0420;
 }
 
 #container{
@@ -82,7 +82,7 @@ background-color: red;
 
 h1{
 color: whitesmoke;
-font-family: 'Press Start 2P', cursive; ;
+font-family: 'Press Start 2P', cursive; 
 margin-left: 45%;
 margin-top: 100px;
 }
